@@ -6,14 +6,14 @@
   justify-content: space-between;
   align-items: center;
 }
-/* .header {
-  position: sticky; 
-  top: 0; 
-  background: #ffffff; 
-  z-index: 1000; 
-  padding: 20px 0; 
-  border-bottom: 1px solid #eee;
-} */
+.header {
+  position: sticky;
+  top: 0;
+  background: #ffffff;
+  z-index: 1000;
+  padding: 20px 0;
+  border-bottom: 1px solid #eee; /* menu com scroll bem facil*/
+}
 
 .header-menu {
   display: flex;
